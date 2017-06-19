@@ -60,7 +60,7 @@ WebML:超文本模型
 
 **3.2 动态建模**
 
-![](media/a600b2e3152472ebb58668c6c954534f.png)
+![](https://github.com/web103/webtask/raw/master/%E5%8A%A8%E6%80%81%E8%B6%85%E6%96%87%E6%9C%AC%E5%BB%BA%E6%A8%A1.png)
 
 **4. 适应性**
 
