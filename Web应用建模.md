@@ -14,17 +14,17 @@
 
 **1.1 静态建模**
 
-![](media/45338b31a3d001b91f4ee2175bbb5225.png)
+![](https://github.com/web103/webtask/raw/master/image/%E5%8A%9F%E8%83%BD%E9%9C%80%E6%B1%82%E9%9D%99%E6%80%81%E5%BB%BA%E6%A8%A1.png)
 
 **1.2 动态建模**
 
-![UWE功能需求动态](media/178dd35131b213f3eb45bde0146b7847.png)
+![UWE功能需求动态](https://github.com/web103/webtask/raw/master/image/%E5%8A%9F%E8%83%BD%E9%9C%80%E6%B1%82%E5%8A%A8%E6%80%81.png)
 
 **2 内容**
 
 **2.1 静态建模**
 
-![](media/8215f431ee8825eb662eed816e0ef9b1.png)
+![](image/静态内容建模.png)
 
 **2.2 动态建模**
 
