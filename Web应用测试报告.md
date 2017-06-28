@@ -62,7 +62,7 @@
 
 ![](image/02.png))
 
-![TIM图片20170628165449](image/03.png)
+![TIM图片20170628165449](image/03.jpg)
 
 ![IMG\_256](image/04.png)
 
