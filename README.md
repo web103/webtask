@@ -18,4 +18,4 @@
 * 管理框架：使用Spring来管理各组件  
 
 
-注意：项目可以使用MyEclipse2015版本来直接导入即可，其它版本未测试，数据库配置文件为HotelSystem\WebRoot\WEB-INF下的hotel-hibernate.xml文件。
+注意：项目可以使用MyEclipse2015版本来直接导入即可，其它版本未测试，数据库配置文件为HotelSystem\WebRoot\WEB-INF下的hotel-hibernate.xml文件。请自行将数据库文件夹中的db_hotelmaster.sql文件导入MySql数据库中。
